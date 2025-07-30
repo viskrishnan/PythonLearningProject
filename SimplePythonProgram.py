@@ -27,9 +27,24 @@ InterestRate = int(InterestRate)
 
 SimpleInterest = (PrincipalAmt * NoOfMonths * InterestRate) / 100
 print(SimpleInterest)
-"""
+
 
 print(max(1,2,3,4,5))
 print(min(10,20,44,1,43))
 print(abs(-44322))
 print(pow(2,4))
+"""
+
+marks = int(input("Enter your marks: "))
+"""
+if (test expression):
+    statement
+else: 
+    statement
+statement
+"""
+if (marks >=40):
+    print("Passed")
+else:
+    print("Failed")
+print("Thank you !")
