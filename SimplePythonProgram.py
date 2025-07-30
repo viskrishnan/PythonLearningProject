@@ -35,16 +35,21 @@ print(abs(-44322))
 print(pow(2,4))
 """
 
-marks = int(input("Enter your marks: "))
-"""
+"""marks = int(input("Enter your marks: "))
 if (test expression):
     statement
 else: 
     statement
 statement
-"""
+
 if (marks >=40):
     print("Passed")
 else:
     print("Failed")
 print("Thank you !")
+"""
+age = int(input("Enter your age: "))
+if age>=18:
+    print("You are eligible for voting!!")
+else:
+    print("you are not eligible for voting. NO")
