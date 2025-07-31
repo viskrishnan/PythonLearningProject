@@ -3,9 +3,10 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/username/repo?style=social" />
   <img src="https://img.shields.io/github/forks/username/repo?style=social" />
-</p>
+ </p>
 
-ASSIGNMENT 1:
+<p align="center">
+ ASSIGNMENT 1:
 Module 2: Basic Python Concepts
  
 Task 1: Perform Basic Mathematical Operations
@@ -26,7 +27,7 @@ Problem Statement: Write a Python program that:
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name.
 
- 
+ <p align="center">
 ASSIGNMENT 2:
 Module 3: Control Structures in Python
  
@@ -43,6 +44,9 @@ Problem Statement: Write a Python program that:
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
 
+ <p align="center">
+ASSIGNMENT 3:Functions & Modules in Python
+   
 Problem Statement: Write a Python program that:
 1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
 2.   Returns the calculated factorial.
@@ -56,3 +60,8 @@ o   Square root of the number
 o   Natural logarithm (log base e) of the number
 o   Sine of the number (in radians)
 3.   Displays the calculated results.
+</p>
+ 
+
+
+
