@@ -1,3 +1,10 @@
+<h1 align="center">🚀 My Awesome Python Learning Projects</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/username/repo?style=social" />
+  <img src="https://img.shields.io/github/forks/username/repo?style=social" />
+</p>
+
 ASSIGNMENT 1:
 Module 2: Basic Python Concepts
  
