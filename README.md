@@ -1,4 +1,4 @@
-<h1 align="center">🚀 My Awesome Python Learning Projects</h1>
+<h1 align="center">🚀 My Python Learning Experiments to become Master in Python </h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/username/repo?style=social" />
@@ -60,6 +60,24 @@ o   Square root of the number
 o   Natural logarithm (log base e) of the number
 o   Sine of the number (in radians)
 3.   Displays the calculated results.
+
+ <p align="center">
+Module 5: Files, Exceptions, and Errors in Python
+
+
+Task 1: Read a File and Handle Errors 
+Problem Statement:  Write a Python program that:
+1.   Opens and reads a text file named sample.txt.
+2.   Prints its content line by line.
+3.   Handles errors gracefully if the file does not exist.
+
+
+Task 2: Write and Append Data to a File
+Problem Statement: Write a Python program that:
+1.   Takes user input and writes it to a file named output.txt.
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file.
+
 </p>
  
 
