@@ -1,4 +1,4 @@
-<h1 align="center">🚀 My Awesome Python Learning Projects</h1>
+<h1 align="center">🚀 My Python Learning Experiments to become Master in Python </h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/username/repo?style=social" />
