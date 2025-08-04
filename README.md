@@ -6,7 +6,6 @@
  </p>
 
 <p align="center">
- ASSIGNMENT 1:
 Module 2: Basic Python Concepts
  
 Task 1: Perform Basic Mathematical Operations
@@ -28,7 +27,6 @@ Problem Statement: Write a Python program that:
 3.  Prints a personalized greeting message using the full name.
 
  <p align="center">
-ASSIGNMENT 2:
 Module 3: Control Structures in Python
  
 Task 1: Check if a Number is Even or Odd
@@ -45,7 +43,7 @@ Problem Statement: Write a Python program that:
 3.   Displays the final sum.
 
  <p align="center">
-ASSIGNMENT 3:Functions & Modules in Python
+Module 4:Functions & Modules in Python
    
 Problem Statement: Write a Python program that:
 1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
