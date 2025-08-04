@@ -61,7 +61,10 @@ o   Natural logarithm (log base e) of the number
 o   Sine of the number (in radians)
 3.   Displays the calculated results.
 
+ <p align="center">
 Module 5: Files, Exceptions, and Errors in Python
+
+
 Task 1: Read a File and Handle Errors 
 Problem Statement:  Write a Python program that:
 1.   Opens and reads a text file named sample.txt.
